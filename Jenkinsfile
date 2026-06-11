@@ -8,7 +8,7 @@ pipeline{
                 mail(
                     to: 'paras000@sharklasers.com',
                     subject: 'hello',
-                    body: 'Aur bhai kya haal chal hai'
+                    body: 'Aur bhai kya haal chal hai UAT'
                 )
             }
         }
